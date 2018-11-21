@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# 
+# Start of session at: Mon Nov 19 08:19:25 2018
+# Process ID: 31144
+# Current directory: /tmp/ramdisk/helloA53/helloA53.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /tmp/ramdisk/helloA53/helloA53.sdk/webtalk/webtalk.log
+# Journal file: /tmp/ramdisk/helloA53/helloA53.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
